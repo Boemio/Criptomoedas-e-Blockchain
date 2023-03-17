@@ -2,9 +2,9 @@
 
 """
 # **Sistema de Recomendação**
-* Vinícius de Moraes - 13749910 
-* Bruno Ideriha Sugahara - 10310759
-* Lucas Albano de Oliveira - 10377688
+* Vinícius de Moraes 
+* Bruno Ideriha Sugahara
+* Lucas Albano de Oliveira
 """
 
 #Bibliotecas Utilizadas
